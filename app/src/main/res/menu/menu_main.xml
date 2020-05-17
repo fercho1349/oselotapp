@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:context=".activities.gallery.GalleryActivity">
+
+  <item
+    android:id="@+id/action_toggle"
+    android:icon="@mipmap/ic_music"
+    android:orderInCategory="100"
+    android:title="PROFILE"
+    app:showAsAction="always" />
+
+</menu>
